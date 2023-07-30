@@ -1,0 +1,8 @@
+<# de jogadores>;<# do jogador que comeca com o bastao>
+<# do jogador>;<ip>;<porta que esta escutando>
+
+4;1
+1;10.254.225.14;6213
+2;10.254.225.15;6215
+3;10.254.225.16;6214
+4;10.254.225.17;6216
